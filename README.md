@@ -3,8 +3,10 @@
 I'm Maxim, a 19 years old web developer from Russia.
 
 Skills
+
 🔥 Python, JavaScript, Django
 ⚙️ Django REST, React, PostgreSQL
+
 Contact
 @Kovalev_Maksim on Telegram
 
