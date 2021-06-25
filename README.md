@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Maxim, a 19 years old web developer from Russia.
+
+Skills
+🔥 Python, JavaScript, Django
+⚙️ Django REST, React, PostgreSQL
+Contact
+@Kovalev_Maksim on Telegram
+
 <!--
 **thelaim/thelaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
