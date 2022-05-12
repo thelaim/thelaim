@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Maxim, a 19 years old web developer from Russia.
+I'm Maxim, a 20 years old web developer from Russia.
 
 ### 🛠 Skills
 ![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=blue)
