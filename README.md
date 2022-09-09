@@ -20,7 +20,7 @@ I'm Maxim, a 20 years old web developer from Russia.
 
 [![mail](https://img.shields.io/badge/eMail-000000?style=for-the-badge&logo=Mail)](mailto:thelaimm@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/Kovalev_Maksim)
-[![resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume)](https://docs.google.com/document/d/1EduNrLhk861HW_bKOZ2UY8rjLl53fK68Dv1UaF_CzHU/edit)
+
 
 
 <!--
