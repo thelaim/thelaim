@@ -1,4 +1,26 @@
-### Hi there 👋
+# 👨‍💻 Maxim Kovalev (@thelaim)
+
+Software Engineer 🚀. Currently looking for a job so if you've got something see [Contacts](#contacts).
+
+## 🦾 Skills
+
+- 🛠 **Backend**: `Python`
+
+- ✨ **Framework**: `Django`, `DRF`
+
+- 💾 **Databases**: `PostgreSQL`
+
+- 🚢 **Containers and etc**: `Docker`, `Swagger`
+
+## 📨 Contacts
+
+- **Telegram** (preferred): [@Kovalev_Maksim](https://t.me/Kovalev_Maksim)
+
+- **VK**: [@purussaurus](https://vk.com/purussaurus)
+
+- **Email**: [thelaimm@gmail.com](mailto:thelaimm@gmail.com)
+
+<!--### Hi there 👋
 
 I'm Maxim, a 20 years old web developer from Russia.
 
@@ -12,9 +34,9 @@ I'm Maxim, a 20 years old web developer from Russia.
 
 
 
-<!--🔥 Python, JavaScript, Django
+🔥 Python, JavaScript, Django
 
-⚙️ Django REST, React, PostgreSQL-->
+⚙️ Django REST, React, PostgreSQL
 
 ### Contact
 
@@ -23,7 +45,30 @@ I'm Maxim, a 20 years old web developer from Russia.
 
 
 
-<!--
+
+
+# 👨‍💻 Maxim Kovalev (@thelaim)
+
+Software Engineer 🚀. Currently looking for a job so if you've got something see [Contacts](#contacts).
+
+## 🦾 Skills
+
+- 🛠 **Backend**: `Python`
+
+- ✨ **Framework**: `Django`, `DRF`
+
+- 💾 **Databases**: `PostgreSQL`
+
+- 🚢 **Containers and etc**: `Docker`
+
+## 📨 Contacts
+
+- **Telegram** (preferred): [@Kovalev_Maksim](https://t.me/Kovalev_Maksim)
+
+- **VK**: [@purussaurus](https://vk.com/purussaurus)
+
+- **Email**: [thelaimm@gmail.com](mailto:thelaimm@gmail.com)
+
 @Kovalev_Maksim on Telegram
 
 
